@@ -1,0 +1,129 @@
+[
+  {
+    "id": 1,
+    "nombre": "Empanadas",
+    "fotoUrl": "https://cdn.create.vista.com/api/media/medium/567099586/stock-photo-cheburek-meat-pastry-pie-herbs-black-concrete-background-top-view?token=",
+    "productos": [
+      {
+        "id": "7",
+        "nombre":"Empanada de carne",
+        "precio": 5000,
+        "esVegano":false,
+        "esCeliaco":false,
+        "ingredientes": ["Carne","Huevo","Ajo"],
+        "fotoUrl": "https://imgs.search.brave.com/MlZpA4sx37xXdAmiaOGWIKK97UhN5wiVskkxD-h7h1w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZnJpZ29yaWZpY29z/YWRhLmNvbS5hci9i/bG9nL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIzLzAxL01lam9y/LWNhcm5lLXBhcmEt/cmVsbGVuby1kZS1l/bXBhbmFkYXMuanBn"
+      },
+      {
+        "id": "8",
+        "nombre":"Empanada de pollo",
+        "precio": 5000,
+        "esVegano":false,
+        "esCeliaco":false,
+        "ingredientes": ["Pollo","Ajo"],
+        "fotoUrl": "https://media.istockphoto.com/id/1437638745/photo/closeup-shot-of-tasty-chicken-empanadas.jpg?s=1024x1024&w=is&k=20&c=SF9xWqZS4CBA8Xs_C7fgZ2ggF9EOlwsyuQdUFk9BWO0="
+      },
+      {
+        "id": "9",
+        "nombre":"Empanada de jamón y queso",
+        "precio": 5000,
+        "esVegano":false,
+        "esCeliaco":false,
+        "ingredientes": ["Jamón","Queso"],
+        "fotoUrl": "https://cdn0.recetasgratis.net/es/posts/2/3/4/empanadas_de_jamon_y_queso_fritas_77432_orig.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Sandwich de milanesas",
+    "fotoUrl": "https://as1.ftcdn.net/v2/jpg/04/67/24/08/1000_F_467240815_dofrsNBpaquCDB334IE04tAyr5Cu8i2t.jpg",
+    "productos": [
+      {
+        "id": "1",
+        "nombre":"Sandwich de milanesa de carne",
+        "precio": 10000,
+        "esVegano":false,
+        "esCeliaco":false,
+        "ingredientes": ["Carne de vaca","Pan hamburguesa","tomate","lechuga","mayonesa"],
+        "fotoUrl": "https://www.sandwichtribunal.com/wp-content/uploads/2018/11/IMG_4073-1024x683.jpg"
+      },
+      {
+        "id": "2",
+        "nombre":"Sandwich de milanesa de pollo",
+        "precio": 10000,
+        "esVegano":false,
+        "esCeliaco":false,
+        "ingredientes": ["Carne de pollo","Pan hamburguesa","mayonesa", "Tomate", "Lechuga"],
+        "fotoUrl": "https://media.mdzol.com/p/7c90b5fbc3a36a65c3df028a8a6dead4/adjuntos/373/imagenes/001/601/0001601841/760x0/smart/uno-los-sanwiches-mas-elegidos.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Bebidas",
+    "fotoUrl": "https://media.istockphoto.com/id/1692385200/es/vector/iconos-de-bebidas-gaseosas-en-estilo-plano-ilustraci%C3%B3n-vectorial-de-botella-de-pl%C3%A1stico.jpg?s=1024x1024&w=is&k=20&c=5B8o1_9PZopAshEqt3qpytiKgJQindI_8E7RwFilxXs=",
+    "productos": [
+      {
+        "id": "10",
+        "nombre":"Cocacola",
+        "precio": 8000,
+        "esVegano":false,
+        "esCeliaco":false,
+        "ingredientes": [],
+        "fotoUrl": "https://harvest-barn-st-catharines.myshopify.com/cdn/shop/products/CocaColaOrignal_1024x1024@2x.jpg?v=1592598961"
+      },
+      {
+        "id": "11",
+        "nombre":"Agua",
+        "precio": 5000,
+        "esVegano":false,
+        "esCeliaco":false,
+        "ingredientes": [],
+        "fotoUrl": "https://supermode.com.mx/cdn/shop/products/100010024_8c586c6d-3ee7-4a32-905a-5b7e1c368ddd.jpg?v=1698803744"
+      },
+      {
+        "id": "12",
+        "nombre":"Jugo de naranja",
+        "precio": 5000,
+        "esVegano":false,
+        "esCeliaco":false,
+        "ingredientes": [],
+        "fotoUrl": "https://cdn.pixabay.com/photo/2020/10/14/19/48/oranges-5655291_1280.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Postres",
+    "fotoUrl": "https://scontent.fasu7-1.fna.fbcdn.net/v/t39.30808-6/480159231_28433150502998051_4825993878562962109_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=MiJfrO04nIAQ7kNvwGLS5Bf&_nc_oc=Adn7mdHcXMiFspPY_j_wEBwluR1IgqQq21GaMF2GhaqNRKcvqiwT34yobjkLwWOmEBM&_nc_zt=23&_nc_ht=scontent.fasu7-1.fna&_nc_gid=WtP2eHur11-7s2ltIEL_eA&oh=00_Afd4d8IssxCSJsAKOMM-p6nGP6GFY1WMOfIGUlbJgYwxrg&oe=68E747A7",
+    "productos": [
+      {
+        "id": "13",
+        "nombre":"Ensalada de frutas",
+        "precio": 5000,
+        "esVegano":true,
+        "esCeliaco":true,
+        "ingredientes": [],
+        "fotoUrl": "https://scontent.fasu7-1.fna.fbcdn.net/v/t1.6435-9/43065441_2203020029771123_7990964723552092160_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=b51VZkJwfRgQ7kNvwHD6oK-&_nc_oc=AdmnSKR6xxz1ayYukqLRNWKaY-9wtLT863_JUKXxjQnQAtDHNEm8XvKb1R0rhJOGFVU&_nc_zt=23&_nc_ht=scontent.fasu7-1.fna&_nc_gid=W67AudGnXuebmsB3dzKKhg&oh=00_AfeCNpKuaTZLpZw5X2lQIsag-EB1cTvMn71WW_2elQ0ndA&oe=6908E743"
+      },
+      {
+        "id": "14",
+        "nombre":"Ensalada de frutas con crema",
+        "precio": 5000,
+        "esVegano":true,
+        "esCeliaco":true,
+        "ingredientes": [],
+        "fotoUrl": "https://scontent.fasu7-1.fna.fbcdn.net/v/t1.6435-9/43049750_2203021169771009_4908988276041318400_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=bS-JmwN7B_oQ7kNvwF4sA9R&_nc_oc=Admwd31WkupRBGg3qmz3fPQR3myYChxBvOwdqy2MJjUnlTLNrIiRV_R4oAOp7cJfm_U&_nc_zt=23&_nc_ht=scontent.fasu7-1.fna&_nc_gid=JdflBSJhQibO39w1Gmq3sQ&oh=00_Afd_h7IWBsRXBUlc27XGXzFl6FCQSl0NjXGxAUiZCn3P2g&oe=6908E5D7"
+      },
+      {
+        "id": "15",
+        "nombre":"Frutilla con chantilli",
+        "precio": 10000,
+        "esVegano":true,
+        "esCeliaco":true,
+        "ingredientes": [],
+        "fotoUrl": "https://scontent.fasu7-1.fna.fbcdn.net/v/t1.6435-9/106013340_3972471179492657_6896698622509297993_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=DgNaaRVwAccQ7kNvwGo2pCW&_nc_oc=AdmXDm38QbKS0X5ISno8urgZZ8m-1HlqWnAT_WfYVVyL6XvDe8XtbOYGMWnrjl0Dc2k&_nc_zt=23&_nc_ht=scontent.fasu7-1.fna&_nc_gid=hpZ19cvPRgBd4ft4mOK63A&oh=00_Afd8cH-s89hD55cdfahMK3L2MTvpiazc7Xg3LznK3mekgw&oe=6908D00F"
+      }
+    ]
+  }
+]
